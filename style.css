@@ -1,0 +1,11 @@
+.container {
+  max-width: 80rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.done {
+  text-decoration: line-through;
+}
